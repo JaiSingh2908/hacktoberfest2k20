@@ -5,4 +5,5 @@ public class checkStringLength {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         System.out.println(s.length());
+    }
 }
